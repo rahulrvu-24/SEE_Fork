@@ -1,0 +1,6 @@
+the following changes have been applied:
+cloning
+forking
+changes with commits
+branches 
+merges

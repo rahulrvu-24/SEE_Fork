@@ -2,5 +2,5 @@ the following changes have been applied:
 cloning
 forking
 changes with commits
-branches 
+branches - bugfix 1 
 merges
